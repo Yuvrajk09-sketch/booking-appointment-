@@ -1,0 +1,11 @@
+/* We are using Bootstrap now, so custom CSS is minimal */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa; /* Lighter background to match Bootstrap light */
+}
+
+/* Optional: Slight hover effect on list items */
+.list-group-item:hover {
+  background-color: #f1f3f5;
+  transition: background-color 0.2s ease-in-out;
+}
